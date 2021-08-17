@@ -1,4 +1,4 @@
-# F5170-python
+# F5170-Plasma-Physics
 Programming exercises in Python for "Introduction to Plasma Physics" at Masaryk university
 
 This repository is organized by mirroring *Interactive Introduction to Plasma Physics. Part II: Hands-on exercises*. 
